@@ -237,7 +237,7 @@
     gap: 22px;
   }
   .polaroid{
-    width: 150px;
+    width: 240px;
     background: #FFFFFF;
     padding: 10px 10px 18px;
     box-shadow: 0 8px 18px rgba(20, 30, 50, 0.18);
@@ -261,7 +261,7 @@
     text-align:center;
     margin-top: 10px;
     font-family:'Parisienne', cursive;
-    font-size: 14px;
+    font-size: 16px;
     color: var(--ink-soft);
   }
 
