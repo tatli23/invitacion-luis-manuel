@@ -231,13 +231,13 @@
   }
   .frames{
     display:flex;
+    flex-direction: column;
     justify-content:center;
-    align-items: flex-start;
-    gap: 18px;
-    flex-wrap: wrap;
+    align-items: center;
+    gap: 22px;
   }
   .polaroid{
-    width: 132px;
+    width: 150px;
     background: #FFFFFF;
     padding: 10px 10px 18px;
     box-shadow: 0 8px 18px rgba(20, 30, 50, 0.18);
